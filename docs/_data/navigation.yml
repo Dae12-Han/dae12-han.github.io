@@ -2,7 +2,7 @@ header:
   - title: Home
     url: /test/
   - title: Docs
-    url: /docs/en/
+    url: /docs/en/quick-start
     key: docs
   - title: Samples
     url: /samples.html
