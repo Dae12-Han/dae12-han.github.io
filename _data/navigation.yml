@@ -1,20 +1,10 @@
 header:
-  - title: Docs
-    url: /docs/en/quick-start
-  - title: 文档
-    url: /docs/zh/quick-start
-  - titles:
-      en: Archive
-      zh: 归档
-      zh-Hans: 归档
-      zh-Hant: 歸檔
-    url: /archive.html
-  - titles:
-      en: About
-      zh: 关于
-      zh-Hans: 关于
-      zh-Hant: 關於
+  - titles: Home
     url: /about.html
+  - title: Docs
+    url: /posts/
+  - titles: Archive
+    url: /archive.html
   - title: GitHub
     url: https://github.com/Dae12-Han
 
