@@ -3,8 +3,7 @@ header:
     url: /archive.html
 
   - title: Docs
-    url: /docs/en/quick-start
-    key: docs
+    url: /archive.html
 
   - titles: About
     url: /about.html
