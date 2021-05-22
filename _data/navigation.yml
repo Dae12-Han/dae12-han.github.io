@@ -1,26 +1,27 @@
 header:
+  #블로그 로고 눌렀을 때는 _post 내용이 뜬다..
   - titles: Home
-    url: /about.html
+    url: /test/
   - title: Docs
-    url: /posts/
+    url: /docs/
   - titles: Archive
     url: /archive.html
   - title: GitHub
     url: https://github.com/Dae12-Han
 
-docs-en:
+docs-side:
   - title: Start
     children:
       - title: Quick Start
-        url: /docs/en/quick-start
+        url: /docs/posts/what-next
       - title: Structure
-        url: /docs/en/structure
+        url: /docs/posts/chart
   - title: Customization
     children:
       - title: Configuration
-        url: /docs/en/configuration
+        url: /docs/posts/configuration
       - title: Navigation
-        url: /docs/en/navigation
+        url: /docs/posts/headers
 
 sidebar:
-  nav: docs-en
+  nav: docs-side
