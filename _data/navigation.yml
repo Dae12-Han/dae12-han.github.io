@@ -25,7 +25,8 @@ header:
     url: /archive.html
 
   - titles: DOCS
-    url: /_posts/
+    url: /posts/
+    key: docs
 
   - titles:
       # @start locale config
