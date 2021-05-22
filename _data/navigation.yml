@@ -4,7 +4,7 @@ header:
   - title: one
     url: /one/index
   - title: two
-    url: /one/index
+    url: /two/index
   #- titles: About
   #  url: /about.html
   - title: GitHub
