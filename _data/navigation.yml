@@ -50,7 +50,7 @@ header:
     url: /about.html
 
   - titles: DOCS
-    url: /posts/
+    url: /_posts/
 
   - title: GitHub
     url: https://github.com/Dae12-Han
