@@ -1,12 +1,50 @@
 header:
   - titles: Archive
     url: /archive.html
-
-  - title: Docs
-    url: /archive.html
-
-  - titles: About
-    url: /about.html
-
+  - title: one
+    url: /one/index
+  - title: two
+    url: /one/index
+  #- titles: About
+  #  url: /about.html
   - title: GitHub
     url: https://github.com/Dae12-Han
+
+one:
+  - title: Test1
+    children:
+      - title: test1-1
+        url: /one/footnote
+      - title: test1-2
+        url: /one/lists
+  - title: Test2
+    children:
+      - title: LifeCircl
+      - title: LiveData
+      - title: ViewModel
+  - title: Test3
+    children:
+      - title: test3
+        url: /one/lists
+
+two:
+  - title: Test1
+    children:
+      - title: test1-1
+        url: /two/images
+      - title: test1-2
+        url: /two/links
+  - title: Test2
+    children:
+      - title: test2-1
+        url: /two/headers
+      - title: test2-2
+        url: /two/author
+  - title: Test3
+    children:
+      - title: test3-1
+      - title: test3-2
+  - title: Test4
+    children:
+      - title: test4
+        url: /two/chart
