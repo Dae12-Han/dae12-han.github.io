@@ -24,6 +24,9 @@ header:
       # @end locale config
     url: /archive.html
 
+  - titles: DOCS
+    url: /_posts/
+
   - titles:
       # @start locale config
       en: &EN About
@@ -48,9 +51,6 @@ header:
       fr-LU: *FR
       # @end locale config
     url: /about.html
-
-  - titles: DOCS
-    url: /_posts/
 
   - title: GitHub
     url: https://github.com/Dae12-Han
