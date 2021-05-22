@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
-timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 ## => Author and Social
 ##############################
@@ -191,13 +191,10 @@ defaults:
       type: posts
     values:
       layout: article
-      title: Page - Sidebar
       sharing: true
       license: true
       aside:
         toc: true
-        sidebar:
-          nav: layouts
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
