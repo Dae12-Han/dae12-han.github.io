@@ -279,5 +279,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-data_dir: /docs/_data

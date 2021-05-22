@@ -16,7 +16,7 @@ one:
       - title: test1-1
         url: /one/footnote
       - title: test1-2
-        url: /one/lists
+        url: /one/definition
   - title: Test2
     children:
       - title: LifeCircl
